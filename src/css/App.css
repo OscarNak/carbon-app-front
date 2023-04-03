@@ -1,0 +1,19 @@
+
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.content {
+  width: 1000px;
+  margin: auto;
+}
+
+.margin-from-nav {
+
+  padding-top: 30vh;
+}
+
+
